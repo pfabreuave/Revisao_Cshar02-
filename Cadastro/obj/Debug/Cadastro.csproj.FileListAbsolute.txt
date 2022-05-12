@@ -1,0 +1,8 @@
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Exercícios_de_Revisã_Parte 2\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Exercícios_de_Revisã_Parte 2\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Exercícios_de_Revisã_Parte 2\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Exercícios_de_Revisã_Parte 2\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Exercícios_de_Revisã_Parte 2\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Exercícios_de_Revisã_Parte 2\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Exercícios_de_Revisã_Parte 2\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Pedro\Desktop\Documentos\Cshar\POO_Csharp_1\Exercícios_de_Revisã_Parte 2\Cadastro\obj\Debug\Cadastro.pdb
